@@ -1,0 +1,24 @@
+//AleksandarStoychev
+
+Instruccions executades en els apartats 1, 5, 10 i 14 de la pràctica:
+
+1-  Crear branca: git branch <nom de la branca>
+    Canviar de branca: git checkout <nom de la branca>
+    Veure en la branca que estas: git status
+
+5-  Veure historial de la branca: git log
+
+10- Fusionar una branca: git merge <nom de la branca>
+
+14- Fer un push des de una branca especifica: git push -u origin <nom de la branca>
+
+
+Resposta a les preguntes dels apartats 6, 7 i 12 de la pràctica:
+
+6-  No podem veure la línia afegida perquè, la línia afegida la vam afegir des de la branca00 i estem el la master. 
+
+7-  Veiem la línia afegida d’abans ja que la vam afegir des de aquesta mateixa branca.
+
+12- S’ha actualitzat només la branca master perquè el push l’he fet des de la branca master.
+
+#AleksandarStoychev
